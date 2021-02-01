@@ -6,8 +6,8 @@ L'application est également dotée d'une fonction de recherche hyper réactive 
 
 Nécessite:
 
-    - #NPM (Node Packet Manager)
-    - #live-server (Une extension NPM)
+    - NPM (Node Package Manager)
+    - live-server (Une extension NPM)
 
 Comment installer:
 
