@@ -5,6 +5,7 @@ et qui associe à chaque robot une image à l'aide de l'API du site robothash.or
 L'application est également dotée d'une fonction de recherche hyper réactive et d'un design agréable visuellement
 
 Nécessite:
+
     - #NPM (Node Packet Manager)
     - #live-server (Une extension NPM)
 
