@@ -1,7 +1,12 @@
 # robofriends
 Une application React qui récupère des données à partir d'une requête à un API REST
 et qui associe à chaque robot une image à l'aide de l'API du site robothash.org
+
 L'application est également dotée d'une fonction de recherche hyper réactive et d'un design agréable visuellement
+
+Nécessite:
+    - #NPM (Node Packet Manager)
+    - #live-server (Une extension NPM)
 
 Comment installer:
 
